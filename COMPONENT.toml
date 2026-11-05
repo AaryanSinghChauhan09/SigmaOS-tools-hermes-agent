@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-tools-hermes-agent"
+tier = 3
+stability = "stable"
+language = "rust"
+description = "Hermes autonomous agent tool-calling framework, reasoning loop, and context compaction"
+upstream = []
+
+[contract]
+provides = ['hermes-agent-runtime', 'tool-call-dispatcher']
+depends_on = []
+
+[maturity]
+status = "Production"
+test_evidence = "Unit tested (AAA pattern)"
+next_milestone = "Ecosystem integration"

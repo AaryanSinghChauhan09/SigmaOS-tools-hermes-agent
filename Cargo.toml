@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_tools_hermes_agent"
+version = "0.1.0"
+edition = "2021"
+description = "Hermes autonomous agent tool-calling framework, reasoning loop, and context compaction"
+
+[lib]
+name = "sigmaos_tools_hermes_agent"
+path = "src/lib.rs"
