@@ -2,7 +2,8 @@
 name = "sigmaos_tools_hermes_agent"
 version = "0.1.0"
 edition = "2021"
-description = "Hermes autonomous agent tool-calling framework, reasoning loop, and context compaction"
+license = "MIT"
+description = "SigmaOS tools-hermes-agent component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_tools_hermes_agent"
